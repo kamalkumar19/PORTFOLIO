@@ -1,11 +1,11 @@
-const logotext = "ARUN";
+const logotext = "KAMAL";
 const meta = {
-    title: "ARUN SHARMA",
-    description: "I’m ARUN SHARMA Web Developer.",
+    title: "KAMAL KUMAR",
+    description: "I’m KAMAL KUMAR Web Developer.",
 };
 
 const introdata = {
-    title: "I’m ARUN SHARMA",
+    title: "I’m KAMAL KUMAR",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
